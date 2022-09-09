@@ -20,3 +20,22 @@ ul {
     margin: 50px;
     font-size: 18px;
 }
+p{
+    background-color: #ffb6c1;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.Number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.Number-3 {
+    font-size: 24px;
+}
+
+.Number-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
