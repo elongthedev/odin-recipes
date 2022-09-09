@@ -9,33 +9,48 @@ ul {
     background-color: green;
     color: white;
     font-size: 18px;
+    text-decoration: none !important;
 }
 
-.link_button {
-    border: solid 1px #20538D;
-    background: orange;
-    color: #FFF;
-    padding: 4px 8px;
-    text-decoration: none;
-    margin: 50px;
+.recipelink {
+    background-color: orange;
+    color: white;
     font-size: 18px;
+    text-decoration: none !important;
 }
+a {
+    text-decoration: none !important;
+    color: black;
+}
+/* this help override the link font issues wither underline*/
 p{
     background-color: #ffb6c1;
     font-family: "Verdana", "DejaVu Sans", "sans-serif";
 }
 
-.Number-2 {
+.number-2 {
     color: blue;
     font-size: 36px;
 }
 
-.Number-3 {
+.number-3 {
     font-size: 24px;
 }
 
-.Number-4 {
+.number-4 {
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
+}
+
+.button1{
+    background-color: black;
+    color: white;
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
+.button2{
+    background-color: yellow;
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
 }
